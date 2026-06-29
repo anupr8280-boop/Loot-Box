@@ -1,0 +1,12 @@
+{
+  "name": "loot-box-bot",
+  "version": "1.0.0",
+  "description": "Loot Box Telegram Earning Bot",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "firebase-admin": "^13.4.0"
+  }
+}
